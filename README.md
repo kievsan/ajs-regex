@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Регулярные выражения»
 
+**CI Test** [![Build status](https://ci.appveyor.com/api/projects/status/obu3t2a58l0utlcm?svg=true)](https://ci.appveyor.com/project/kievsan/ajs-regex)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
@@ -9,6 +11,8 @@
 **Важно**: решения должны быть построены на базе [шаблона Webpack](/ci-template).
 
 В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе вставьте ссылки на ваш GitHub-проекты.
+
+**[ссылка на задание](https://github.com/netology-code/ajs-homeworks/tree/ajs8/regex)**
 
 ---
 
