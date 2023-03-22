@@ -1,0 +1,33 @@
+{
+  "name": "ajs-regex",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript. Regular expressions",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint . --fix",
+    "srcfix": "eslint ./src/*.js --fix",
+    "test": "jest",
+    "testcov": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kievsan/ajs-regex.git"
+  },
+  "keywords": [
+    "regular",
+    "expressions",
+    "regex"
+  ],
+  "author": "kievsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kievsan/ajs-regex/issues"
+  },
+  "homepage": "https://github.com/kievsan/ajs-regex#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
